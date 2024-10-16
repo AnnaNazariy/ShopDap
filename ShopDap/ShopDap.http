@@ -1,0 +1,6 @@
+@ShopDap_HostAddress = http://localhost:5290
+
+GET {{ShopDap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
